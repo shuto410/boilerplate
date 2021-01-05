@@ -22,4 +22,4 @@ print("hoge")
 echo "hoge"
 ```
 
-![hoge](/source/hoge.png)
+![hoge](https://raw.githubusercontent.com/shuto410/boilerplate/master/source/hoge.png)
