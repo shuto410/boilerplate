@@ -12,9 +12,12 @@ Welcome to GitPress. This is your first post.
 - Website: https://gitpress.io
 - Getting Started: https://gitpress.io/c/help/welcome
 
-```python 2.7
+```python2.7
 print "hoge"
 ```
 ```python
 print("hoge")
+```
+```bash
+echo "hoge"
 ```
