@@ -22,4 +22,4 @@ print("hoge")
 echo "hoge"
 ```
 
-![hoge](hoge.png)
+![hoge](/source/hoge.png)
