@@ -22,4 +22,4 @@ print("hoge")
 echo "hoge"
 ```
 
-![hoge](スクリーンショット 2021-01-05 20.35.48.png)
+![hoge](../screenshot.jpg)
