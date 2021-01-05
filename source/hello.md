@@ -22,4 +22,4 @@ print("hoge")
 echo "hoge"
 ```
 
-![hoge](../screenshot.jpg)
+![hoge](hoge.png)
