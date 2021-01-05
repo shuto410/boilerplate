@@ -15,3 +15,6 @@ Welcome to GitPress. This is your first post.
 ```python 2.7
 print "hoge"
 ```
+```python
+print("hoge")
+```
